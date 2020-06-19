@@ -7,6 +7,7 @@ body {
   margin: 0;
   padding: 0;
   background: #e5e5e5;
+  height: 100vh;
 }
 .main-nav {
   background: #e5e5e5 !important;
@@ -280,3 +281,6 @@ input[type="number"] {
     margin: 2rem 0;
   }
 }
+
+
+/* footer */
